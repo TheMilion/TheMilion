@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,react,nodejs,express,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,bootstrap,nuxtjs,react,nodejs,redis,express,postgres,mysql,vscode,linux)](https://skillicons.dev)
 <!--
 **TheMilion/TheMilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
